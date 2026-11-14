@@ -90,6 +90,13 @@ function Navbar() {
           <a href="#contact" className="nav-button">
             Let's Talk
           </a>
+          <a
+  href="/MyResume.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  Resume ↗
+</a>
 
           <button
             className={`menu-button ${
